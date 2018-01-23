@@ -3,3 +3,6 @@ git init
 git add *
 git commit -m "added some files"
 git push origin master
+git add basic*
+git commit -m "more changes"
+git push origin master
