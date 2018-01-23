@@ -1,0 +1,5 @@
+mkdir basic_repo
+git init
+git add *
+git commit -m "added some files"
+git push origin master
